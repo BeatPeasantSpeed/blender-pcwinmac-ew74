@@ -1,4 +1,4 @@
-# 
+# Oficial Blender plugins para Mac OS | Principal Blender plugins para PC Windows. Con distorsión de sobre y línea de tiempo de animación — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
